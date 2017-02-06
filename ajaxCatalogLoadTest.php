@@ -1,6 +1,6 @@
 <?php
 
-    $application = getenv("VCAP_APPLICATION");
+    $application = getenv("VCAP_APPLICATION"); 
     $application_json = json_decode($application, true);
     $applicationName = $application_json["name"];
     $catalogAppName = str_replace("ui-", "catalog-api-", $applicationName);
