@@ -100,7 +100,7 @@ function orderItem(itemID){
 	</div>
 	<div id="loading"><br>Loading...</div>
 	<a href="./autoLoadTest.html">Catalog Load Tester</a>
-	 <img src="images/small.jpg" width="400" height="300">
+	 <img src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="100%" width="100%" alt="Oops">
 </body>
 </html>
 
