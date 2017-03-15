@@ -2,7 +2,7 @@
 
 <?php
 
-include 'getItems.php';
+include 'getItems.php'; 
 $result = RetrieveItems();
 
 ?>
